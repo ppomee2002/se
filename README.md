@@ -7,5 +7,5 @@
 ---
 * [과제1 (품질 요소 측정)](docs/Quality_and_Process_Model.md)  
 품질 요소 측정문서입니다.
-* [과제2 (프로젝트 관리 계획서)](docs/Project managemen plan.md)  
+* [과제2 (프로젝트 관리 계획서)](docs/Project_Management_Plan.md)  
 프로젝트 관리 계획서입니다.
