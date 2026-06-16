@@ -12,4 +12,6 @@
 * [과제3 (요구사항 정의서)](docs/Requirements_Definition.md)  
 요구사항 정의서입니다.
 * [과제4 (요구사항 분석서)](docs/Requirements_Analysis.md)  
-요구사항 정의서입니다.
+요구사항 분석서입니다.
+* [과제5 (테스트 보고서)](docs/Test_Report.md)  
+테스트 보고서입니다.
